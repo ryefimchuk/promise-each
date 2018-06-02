@@ -1,0 +1,30 @@
+{
+  "name": "@ryefimchuk/promise-each",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "homepage": "https://github.com/ryefimchuk/promise-each",
+  "bugs": "https://github.com/ryefimchuk/promise-each/issues",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryefimchuk/promise-each"
+  },
+  "keywords": [
+    "promise",
+    "each",
+    "es5",
+    "es2015",
+    "typescript"
+  ],
+  "author": "Roman Yefimchuk <ryefimchuk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  },
+  "types": "dist/index.d.ts"
+}
