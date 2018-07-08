@@ -1,6 +1,6 @@
 {
   "name": "@ryefimchuk/promise-each",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "homepage": "https://github.com/ryefimchuk/promise-each",
@@ -28,6 +28,6 @@
   },
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@ryefimchuk/promise-lazy-each": "^1.0.0"
+    "@ryefimchuk/promise-lazy-each": "^1.0.1"
   }
 }
